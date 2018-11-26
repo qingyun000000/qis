@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\报价查询系统\QISModel\bin\Debug\QISModel.dll
+C:\Users\Administrator\source\repos\报价查询系统\QISModel\bin\Debug\QISModel.pdb
+C:\Users\Administrator\source\repos\报价查询系统\QISModel\obj\Debug\QISModel.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\报价查询系统\QISModel\obj\Debug\QISModel.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\报价查询系统\QISModel\obj\Debug\QISModel.dll
+C:\Users\Administrator\source\repos\报价查询系统\QISModel\obj\Debug\QISModel.pdb

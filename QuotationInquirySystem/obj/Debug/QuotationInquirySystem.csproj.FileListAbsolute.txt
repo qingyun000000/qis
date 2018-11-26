@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\报价查询系统\QuotationInquirySystem\bin\Debug\QuotationInquirySystem.exe.config
+C:\Users\Administrator\source\repos\报价查询系统\QuotationInquirySystem\bin\Debug\QuotationInquirySystem.exe
+C:\Users\Administrator\source\repos\报价查询系统\QuotationInquirySystem\bin\Debug\QuotationInquirySystem.pdb
+C:\Users\Administrator\source\repos\报价查询系统\QuotationInquirySystem\obj\Debug\QuotationInquirySystem.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\报价查询系统\QuotationInquirySystem\obj\Debug\QuotationInquirySystem.mainFrame.resources
+C:\Users\Administrator\source\repos\报价查询系统\QuotationInquirySystem\obj\Debug\QuotationInquirySystem.Properties.Resources.resources
+C:\Users\Administrator\source\repos\报价查询系统\QuotationInquirySystem\obj\Debug\QuotationInquirySystem.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\报价查询系统\QuotationInquirySystem\obj\Debug\QuotationInquirySystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\报价查询系统\QuotationInquirySystem\obj\Debug\QuotationInquirySystem.exe
+C:\Users\Administrator\source\repos\报价查询系统\QuotationInquirySystem\obj\Debug\QuotationInquirySystem.pdb
+C:\Users\Administrator\source\repos\报价查询系统\QuotationInquirySystem\obj\Debug\QuotationInquirySystem.Form2.resources
+C:\Users\Administrator\source\repos\报价查询系统\QuotationInquirySystem\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\source\repos\报价查询系统\QuotationInquirySystem\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Administrator\source\repos\报价查询系统\QuotationInquirySystem\obj\Debug\QuotationInquirySystem.csproj.CopyComplete

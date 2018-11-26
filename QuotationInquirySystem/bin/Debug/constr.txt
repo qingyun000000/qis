@@ -1,0 +1,1 @@
+﻿server=127.0.0.1;User Id=root;password=123;Database=qis

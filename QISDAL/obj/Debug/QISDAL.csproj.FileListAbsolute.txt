@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\报价查询系统\QISDAL\bin\Debug\QISDAL.dll
+C:\Users\Administrator\source\repos\报价查询系统\QISDAL\bin\Debug\QISDAL.pdb
+C:\Users\Administrator\source\repos\报价查询系统\QISDAL\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\source\repos\报价查询系统\QISDAL\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Administrator\source\repos\报价查询系统\QISDAL\bin\Debug\QISModel.dll
+C:\Users\Administrator\source\repos\报价查询系统\QISDAL\bin\Debug\QISModel.pdb
+C:\Users\Administrator\source\repos\报价查询系统\QISDAL\obj\Debug\QISDAL.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\报价查询系统\QISDAL\obj\Debug\QISDAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\报价查询系统\QISDAL\obj\Debug\QISDAL.csproj.CopyComplete
+C:\Users\Administrator\source\repos\报价查询系统\QISDAL\obj\Debug\QISDAL.dll
+C:\Users\Administrator\source\repos\报价查询系统\QISDAL\obj\Debug\QISDAL.pdb
